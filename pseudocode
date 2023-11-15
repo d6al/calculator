@@ -1,0 +1,22 @@
+1. START
+2. Display Menu: Display the Arithmetic Operations: +, -, x, /, and Exit.
+3. User Input:
+4. Check for Exit
+5. If yes, STOP
+6. If no, proceed to the next step.
+7. Input Numbers:
+8. Prompt the user to enter two numbers.
+9. Input Validation:
+10. Check if the entered values are valid numbers.
+11. If not, show an error message and go back to step 3.
+12. If yes, proceed to the next step.
+13. Arithmetic Selection
+14. Select the corresponding arithmetic operations (Addition, Subtraction, Multiplication, Division).
+15. Operation Execution:
+16. Perform the selected operation with the input numbers.
+17. If Division, check for division by zero.
+18. If division by zero, show an error message and go back to step 3.
+19. If no division by zero, proceed to the next step.
+20. Result Display: Display the result of the operation.
+21. Loop Back: Return to the Menu Display (step 2) to allow the user to perform another calculation.
+22. END
